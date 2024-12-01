@@ -67,10 +67,3 @@ if (digitalRead(BUTTON) == LOW) {
 
 ## 프로젝트 결과
 UV-Meter는 자외선 강도를 시각적으로 알리고, 사용자가 위험한 자외선 수준에 노출되지 않도록 돕기 위해 개발되었습니다. 이 장치는 휴대가 가능하고, 사용자 친화적인 인터페이스를 통해 일상 생활 속에서 유용하게 활용될 수 있습니다.
-
-## 라이선스
-이 프로젝트는 MIT 라이선스를 따릅니다.
-
-## 링크
-- [GitHub Repository](https://github.com/yourrepository)
-
